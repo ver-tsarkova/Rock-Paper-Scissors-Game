@@ -1,5 +1,4 @@
 /* 
-Student ID: @00194989
 Filename: rps.cpp
 Assignment: HW6: R/P/S   
 Description: A program to play rock-paper-scissors game.      
